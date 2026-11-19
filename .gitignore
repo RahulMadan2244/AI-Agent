@@ -1,0 +1,16 @@
+# Secrets - NEVER push these
+.env
+*.kubeconfig
+kubeconfig
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Editor
+.vscode/
